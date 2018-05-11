@@ -1,4 +1,4 @@
-#Project Message Application
+# Project Message Application
 ## Author: Gustavo Gonzalez
 **Steps to make the project run:**
 1. mkdir chat_app
@@ -10,10 +10,10 @@
 6. python manage.py runserver
 7. Use API (in browser default localhost:8000/)
 
-Routes available:
+Routes available:  
 -For accessing de admin page localhost:8000/admin  
 -To login as a user localhost:8000/auth/login  
--To GET messages available to the user currently logged in localhost:8000/listar_mensajes
+-To GET messages available to the user currently logged in localhost:8000/listar_mensajes  
 -To send a new message(Post) localhost:8000/mensajes  
 -To GET a list of users localhost:8000/users  
 
